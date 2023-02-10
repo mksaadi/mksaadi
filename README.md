@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @mksaadi
-- 👀 I’m interested in Full Stack Web Development !
-- 🌱 I’m currently learning django and react.
+- 👋 Hi, I’m Mohamod Kabir Sadi
+-   
+-   Competitive Programmer.
+-   Full Stack Web and Software Developer.
+-   
 
-- 📫 How to reach me mksaadi03@gmail.com
+-   email : mksaadi03@gmail.com
