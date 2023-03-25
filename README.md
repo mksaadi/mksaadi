@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mohamod Kabir Sadi
 -   Competitive Programmer.
--   Full Stack Web and Software Developer.
+-   Full Stack Web Developer.
 -   email : mksaadi03@gmail.com
